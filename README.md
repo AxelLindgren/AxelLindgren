@@ -1,13 +1,7 @@
-👋 Hi, I’m @AxelLindgren
+👋 Hi, I’m Axel.
 
-👀 I have a passion for programming in general 💻✨ and am deeply into art 🎨 and music 🎶. 
+👀 I have a passion for programming.
 
-🌱 Currently, I’m expanding my knowledge in full-stack development 🌐 and machine learning 🤖. Learning in life never stops! 🚀
+📫 Feel free to reach out to me via LinkedIn https://www.linkedin.com/in/axel-l/.
 
-💞️ I’m looking to collaborate on full-stack development projects. 🌟🤝
-
-📫 Feel free to reach out to me via LinkedIn 📧📞.
-
-😄 Pronouns: He/Him 😊
-
-⚡ Fun fact: My name Axel means Father of Peace! 🌟 So PEACE OUT! 😄
+⚡ Fun fact: My name Axel means Father of Peace!
